@@ -1,0 +1,39 @@
+
+#login{
+     width: 300px;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align:center;
+    margin: auto;
+    margin-top: 140px;
+    background-image: url('https://pkmacbook.com/wp-content/uploads/2021/06/hinh-nen-powerpoint-sang-xanh-cuc-chat_093021004.jpg');
+}
+body{
+    background-image: url('https://lh3.googleusercontent.com/proxy/gxhjqkMsHeMb40AjPx0yPf_7AlCJ34L_ZRBgg5Ua5sVD_wXe5JjWMIxSpyhVEghKfvym8KjbSwNqzbquHVD-4Ha9a4XDkANyRKngR-sLBKZYZ4DzO3jrgAT4Fza82G4u7wwQI-03F4NaJfRb');
+}
+
+h2{
+    color: rgb(241, 97, 97);
+    font-family: sans-serif;
+}
+input{
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 20px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(105, 230, 161);
+    color: white;
+}
+button:hover{
+    font-size: 15px;
+}
